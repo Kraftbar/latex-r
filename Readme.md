@@ -1,6 +1,6 @@
 
 # code in latex
-> **[pythontex](https://github.com/gpoore/pythontex)**   
+> **[pythontex](https://github.com/gpoore/pythontex)**     
 
 # tex practices
 > **[nasa-latex](https://github.com/nasa/nasa-latex-docs)**      
