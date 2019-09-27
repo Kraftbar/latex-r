@@ -3,7 +3,7 @@
 > **[pythontex](https://github.com/gpoore/pythontex)**   
 
 # tex practices
-> **[nasa-latex](https://github.com/nasa/nasa-latex-docs)**   
+> **[nasa-latex](https://github.com/nasa/nasa-latex-docs)**      
 
 # .tex generation
 > **[tikz-bayesnet](https://github.com/jluttine/tikz-bayesnet)**   
