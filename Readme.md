@@ -56,7 +56,7 @@
 
 >   ```sh
 >    gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.5 -dNOPAUSE -dQUIET -dBATCH 
--sOutputFile=foo-compressed.pdf foo.pdf
+> -sOutputFile=foo-compressed.pdf foo.pdf
 >   ```
 >   ```sh
 >    pdflatex input.tex outout.pdf && rm *.aux && rm *.log
