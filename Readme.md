@@ -20,7 +20,7 @@
 
 <br/>
 
-# packages
+# package overview
 > **[miktex packaged](https://miktex.org/pkg/az)**   
 
 <br/>
