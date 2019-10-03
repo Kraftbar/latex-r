@@ -52,7 +52,7 @@
 
 <br/>
 
-## one-liners
+# one-liners
 
 >   ```sh
 >    gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.5 -dNOPAUSE -dQUIET -dBATCH -sOutputFile=foo-compressed.pdf foo.pdf
