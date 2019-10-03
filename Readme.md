@@ -2,8 +2,13 @@
 # code in latex
 > **[pythontex](https://github.com/gpoore/pythontex)**     
 
+
+<br/>
+
+
 # tex practices
 > **[nasa-latex](https://github.com/nasa/nasa-latex-docs)**      
+<br/>
 
 # .tex generation
 > **[tikz-bayesnet](https://github.com/jluttine/tikz-bayesnet)**   
@@ -13,10 +18,12 @@
 > **[pdf2tex](https://www.abisource.com/)**   
 > **[svg2tikz](https://github.com/kjellmf/svg2tikz)**   
 
+<br/>
 
 # packages
 > **[miktex packaged](https://miktex.org/pkg/az)**   
 
+<br/>
 
 
 # graphics
@@ -43,6 +50,7 @@
 ## sketch-lib
 > **[sketch-lib](http://alexdu.github.io/sketch-lib/)**   
 
+<br/>
 
 ## one-liners
 
