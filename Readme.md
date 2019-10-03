@@ -43,3 +43,11 @@
 ## sketch-lib
 > **[sketch-lib](http://alexdu.github.io/sketch-lib/)**   
 
+
+## one-liners
+
+>   ```sh
+>    gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.5 -dNOPAUSE -dQUIET -dBATCH -sOutputFile=foo-compressed.pdf foo.pdf
+>    lol ```
+
+
