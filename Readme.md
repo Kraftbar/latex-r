@@ -1,21 +1,21 @@
 
-# code in latex
+## code in latex
 > **[pythontex](https://github.com/gpoore/pythontex)**     
 
 
 <br/>
 
 
-# tools
+## tools
 > **[pydflatex](https://github.com/olivierverdier/pydflatex)**
 
 
 
-# tex practices
+## tex practices
 > **[nasa-latex](https://github.com/nasa/nasa-latex-docs)**      
 <br/>
 
-# .tex generation
+## .tex generation
 > **[tikz-bayesnet](https://github.com/jluttine/tikz-bayesnet)**   
 > **[conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)**   
 > **[draw_convnet](https://github.com/gwding/draw_convnet)**   
@@ -26,24 +26,24 @@
 
 <br/>
 
-# package overview
+## package overview
 > **[miktex packaged](https://miktex.org/pkg/az)**   
 
 <br/>
 
 
-# graphics
-## PGF/TikZ
-### examples 
+## graphics
+### PGF/TikZ
+#### examples 
 > **[TikZ_ex](https://github.com/PetarV-/TikZ)**   
 > **[Tikz Prof. walmes](http://www.leg.ufpr.br/~walmes/tikz/)**   
 > **[Data structures ](https://atc1.aut.uah.es/~david/notes/2017/03/datastructures-in-tikz/)**   
 > **[pgfplots-examples](http://pgfplots.sourceforge.net/gallery.html)**   
 > **[diagrams-tikz](https://wiki.physik.uzh.ch/cms/latex:tikz)**   
 
-### editors
+#### editors
 > **[tikzcd-editor](https://github.com/yishn/tikzcd-editor)**   
-### doc
+#### doc
 > **[tikz&pgf-doc](http://ctan.uib.no/graphics/pgf/base/doc/pgfmanual.pdf)**   
 > **[tikz-minimal-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
 > **[tikz-3dplot-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
@@ -53,19 +53,19 @@
 
 
 
-## sketch-lib
+### sketch-lib
 > **[sketch-lib](http://alexdu.github.io/sketch-lib/)**   
 
 
 
 
-# misc
+## misc
 > **[usepyplot](https://github.com/masasin/latexipy)**   
 > **[latex-resources](https://github.com/davidstutz/latex-resources)**   
 
 <br/>
 
-# one-liners
+## one-liners
 
 >   ```sh
 >    gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.5 -dNOPAUSE -dQUIET -dBATCH 
@@ -75,7 +75,7 @@
 
 <br/>
 
-# not latex
+## not latex
 
 > **[pandoc](https://github.com/jgm/pandoc)**   
 
