@@ -58,6 +58,11 @@
 
 
 
+
+# misc
+> **[usepyplot](https://github.com/masasin/latexipy)**   
+> **[latex-resources](https://github.com/davidstutz/latex-resources)**   
+
 <br/>
 
 # one-liners
