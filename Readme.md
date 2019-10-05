@@ -75,6 +75,7 @@
 ## Misc
 > **[usepyplot](https://github.com/masasin/latexipy)**   
 > **[latex-resources](https://github.com/davidstutz/latex-resources)**   
+> **[SageTEX](https://github.com/davidstutz/latex-resources)**   
 
 <br/>
 

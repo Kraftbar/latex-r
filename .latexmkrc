@@ -16,10 +16,12 @@ $pdf_mode = 1;
 $bibtex_use = 1;
 
 # Define command to compile with pdfsync support and nonstopmode
-$pdflatex = 'pdflatex -synctex=1 --interaction=nonstopmode -file-line-error';
+$pdflatex = 'pdflatex -synctex=1 --interaction=nonstopmode -file-line-error ';
 
 # Use default pdf viewer (Skim)
-$pdf_previewer = 'open';
+$pdf_previewer = 'zathura';
+
+$out_dir = 'build_latex';
 
 # Also remove pdfsync files on clean
 $clean_ext = 'pdfsync synctex.gz';
