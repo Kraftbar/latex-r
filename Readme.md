@@ -11,8 +11,8 @@
 
 
 ## Tools
-> **[pydflatex](https://github.com/olivierverdier/pydflatex)**
-> **[latexmk](https://www.ctan.org/pkg/latexmk)**
+> **[pydflatex](https://github.com/olivierverdier/pydflatex)**   
+> **[latexmk](https://www.ctan.org/pkg/latexmk)**   
 
 
 ## tex practices
