@@ -15,7 +15,7 @@
 > **[latexmk](https://www.ctan.org/pkg/latexmk)**   
 
 
-## tex practices
+## Tex practices
 > **[nasa-latex](https://github.com/nasa/nasa-latex-docs)**      
 <br/>
 
