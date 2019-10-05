@@ -32,15 +32,9 @@
 <br/>
 
 
-<<<<<<< HEAD
 # graphics
 ## PGF/TikZ
 ### TikZ 
-=======
-## graphics
-### PGF/TikZ
-#### examples 
->>>>>>> origin/master
 > **[TikZ_ex](https://github.com/PetarV-/TikZ)**   
 > **[Tikz Prof. walmes](http://www.leg.ufpr.br/~walmes/tikz/)**   
 > **[Tikz-official](https://github.com/walmes/Tikz)**   
