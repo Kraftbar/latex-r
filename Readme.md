@@ -55,7 +55,13 @@
 > **[sketch-lib](http://alexdu.github.io/sketch-lib/)**   
 
 ### Editors
+> **[ktikz](https://github.com/fhackenberger/ktikz)**   
+> **[tikzit](https://tikzit.github.io/)**   
+> **[geogebra](https://www.geogebra.org/)**   
 > **[tikzcd-editor](https://github.com/yishn/tikzcd-editor)**   
+> **[cirkuit](https://github.com/KDE/cirkuit)**   
+
+
 ### Docs
 > **[tikz&pgf-doc](http://ctan.uib.no/graphics/pgf/base/doc/pgfmanual.pdf)**   
 > **[tikz-minimal-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
@@ -78,6 +84,10 @@
 >    gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.5 -dNOPAUSE -dQUIET -dBATCH 
 >       -sOutputFile=foo-compressed.pdf foo.pdf
 >   ```
+
+## Good packages
+> **[circuitikz](https://ctan.org/pkg/circuitikz?lang=en)**   
+> **[circuit-macros](https://ctan.org/pkg/circuit-macros?lang=en)**   
 
 
 <br/>
