@@ -37,7 +37,7 @@
 
 
 ## Graphics
-⋅⋅⋅
+
 ### TikZ 
 > **[TikZ_ex](https://github.com/PetarV-/TikZ)**   
 > **[Tikz Prof. walmes](http://www.leg.ufpr.br/~walmes/tikz/)**   
@@ -64,7 +64,7 @@
 > **[pgfplots-doc](http://pgfplots.sourceforge.net/gallery.html)**   
 > **[tikz-ref-doc](docs/c_tikzref.pdf)**   
 
-⋅⋅⋅
+
 
 ## Misc
 > **[usepyplot](https://github.com/masasin/latexipy)**   
