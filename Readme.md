@@ -56,7 +56,7 @@
 
 ### Editors
 > **[tikzcd-editor](https://github.com/yishn/tikzcd-editor)**   
-### Doc
+### Docs
 > **[tikz&pgf-doc](http://ctan.uib.no/graphics/pgf/base/doc/pgfmanual.pdf)**   
 > **[tikz-minimal-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
 > **[tikz-3dplot-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
