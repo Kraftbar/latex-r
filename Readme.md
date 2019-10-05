@@ -37,33 +37,34 @@
 
 
 ## Graphics
-    ### TikZ 
-    > **[TikZ_ex](https://github.com/PetarV-/TikZ)**   
-    > **[Tikz Prof. walmes](http://www.leg.ufpr.br/~walmes/tikz/)**   
-    > **[Tikz-official](https://github.com/walmes/Tikz)**   
-    > **[Data structures ](https://atc1.aut.uah.es/~david/notes/2017/03/datastructures-in-tikz/)**   
-    > **[diagrams-tikz](https://wiki.physik.uzh.ch/cms/latex:tikz)**   
-    ### PGF
-    > **[pgfplots-examples](http://pgfplots.sourceforge.net/gallery.html)**   
+⋅⋅⋅
+### TikZ 
+> **[TikZ_ex](https://github.com/PetarV-/TikZ)**   
+> **[Tikz Prof. walmes](http://www.leg.ufpr.br/~walmes/tikz/)**   
+> **[Tikz-official](https://github.com/walmes/Tikz)**   
+> **[Data structures ](https://atc1.aut.uah.es/~david/notes/2017/03/datastructures-in-tikz/)**   
+> **[diagrams-tikz](https://wiki.physik.uzh.ch/cms/latex:tikz)**   
+### PGF
+> **[pgfplots-examples](http://pgfplots.sourceforge.net/gallery.html)**   
 
 
 
 
-    ### Sketch
-    > **[sketch](http://www.frontiernet.net/~eugene.ressler/)**   
-    > **[sketch-lib](http://alexdu.github.io/sketch-lib/)**   
+### Sketch
+> **[sketch](http://www.frontiernet.net/~eugene.ressler/)**   
+> **[sketch-lib](http://alexdu.github.io/sketch-lib/)**   
 
-    ### Editors
-    > **[tikzcd-editor](https://github.com/yishn/tikzcd-editor)**   
-    ### Doc
-    > **[tikz&pgf-doc](http://ctan.uib.no/graphics/pgf/base/doc/pgfmanual.pdf)**   
-    > **[tikz-minimal-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
-    > **[tikz-3dplot-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
-    > **[pgfplots-doc](http://pgfplots.sourceforge.net/gallery.html)**   
-    > **[pgfplots-doc](http://pgfplots.sourceforge.net/gallery.html)**   
-    > **[tikz-ref-doc](docs/c_tikzref.pdf)**   
+### Editors
+> **[tikzcd-editor](https://github.com/yishn/tikzcd-editor)**   
+### Doc
+> **[tikz&pgf-doc](http://ctan.uib.no/graphics/pgf/base/doc/pgfmanual.pdf)**   
+> **[tikz-minimal-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
+> **[tikz-3dplot-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
+> **[pgfplots-doc](http://pgfplots.sourceforge.net/gallery.html)**   
+> **[pgfplots-doc](http://pgfplots.sourceforge.net/gallery.html)**   
+> **[tikz-ref-doc](docs/c_tikzref.pdf)**   
 
-
+⋅⋅⋅
 
 ## Misc
 > **[usepyplot](https://github.com/masasin/latexipy)**   
