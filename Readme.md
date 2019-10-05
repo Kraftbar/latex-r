@@ -1,23 +1,23 @@
 
 # latex resources
 
-## code in latex
+## Code in latex
 > **[pythontex](https://github.com/gpoore/pythontex)**     
 
 
 <br/>
 
 
-## tools
+## Tools
 > **[pydflatex](https://github.com/olivierverdier/pydflatex)**
-
+> **[latexmk](https://www.ctan.org/pkg/latexmk)**
 
 
 ## tex practices
 > **[nasa-latex](https://github.com/nasa/nasa-latex-docs)**      
 <br/>
 
-## .tex generation
+## Tex generation
 > **[tikz-bayesnet](https://github.com/jluttine/tikz-bayesnet)**   
 > **[conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)**   
 > **[draw_convnet](https://github.com/gwding/draw_convnet)**   
@@ -28,13 +28,13 @@
 
 <br/>
 
-## package overview
+## Package overview
 > **[miktex packaged](https://miktex.org/pkg/az)**   
 
 <br/>
 
 
-## graphics
+## Graphics
 ### TikZ 
 > **[TikZ_ex](https://github.com/PetarV-/TikZ)**   
 > **[Tikz Prof. walmes](http://www.leg.ufpr.br/~walmes/tikz/)**   
@@ -44,22 +44,22 @@
 ### PGF
 > **[pgfplots-examples](http://pgfplots.sourceforge.net/gallery.html)**   
 
-#### editors
+
+
+
+### Sketch
+> **[sketch](http://www.frontiernet.net/~eugene.ressler/)**   
+> **[sketch-lib](http://alexdu.github.io/sketch-lib/)**   
+
+### Editors
 > **[tikzcd-editor](https://github.com/yishn/tikzcd-editor)**   
-#### doc
+### Doc
 > **[tikz&pgf-doc](http://ctan.uib.no/graphics/pgf/base/doc/pgfmanual.pdf)**   
 > **[tikz-minimal-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
 > **[tikz-3dplot-doc](http://ctan.uib.no/graphics/pgf/contrib/tikz-3dplot/tikz-3dplot_documentation.pdf)**   
 > **[pgfplots-doc](http://pgfplots.sourceforge.net/gallery.html)**   
 > **[pgfplots-doc](http://pgfplots.sourceforge.net/gallery.html)**   
 > **[tikz-ref-doc](docs/c_tikzref.pdf)**   
-
-
-
-### sketch
-> **[sketch](http://www.frontiernet.net/~eugene.ressler/)**   
-> **[sketch-lib](http://alexdu.github.io/sketch-lib/)**   
-
 
 
 
