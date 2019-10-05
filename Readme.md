@@ -1,5 +1,7 @@
 
-# latex resources
+# Latex resources
+
+<br/>
 
 ## Code in latex
 > **[pythontex](https://github.com/gpoore/pythontex)**     
@@ -34,20 +36,20 @@
 <br/>
 
 
-## Graphics
-### TikZ 
++ ## Graphics
+- ### TikZ 
 > **[TikZ_ex](https://github.com/PetarV-/TikZ)**   
 > **[Tikz Prof. walmes](http://www.leg.ufpr.br/~walmes/tikz/)**   
 > **[Tikz-official](https://github.com/walmes/Tikz)**   
 > **[Data structures ](https://atc1.aut.uah.es/~david/notes/2017/03/datastructures-in-tikz/)**   
 > **[diagrams-tikz](https://wiki.physik.uzh.ch/cms/latex:tikz)**   
-### PGF
+- ### PGF
 > **[pgfplots-examples](http://pgfplots.sourceforge.net/gallery.html)**   
 
 
 
 
-### Sketch
+- ### Sketch
 > **[sketch](http://www.frontiernet.net/~eugene.ressler/)**   
 > **[sketch-lib](http://alexdu.github.io/sketch-lib/)**   
 
