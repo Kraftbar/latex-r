@@ -33,12 +33,14 @@
 
 # graphics
 ## PGF/TikZ
-### examples 
+### TikZ 
 > **[TikZ_ex](https://github.com/PetarV-/TikZ)**   
 > **[Tikz Prof. walmes](http://www.leg.ufpr.br/~walmes/tikz/)**   
+> **[Tikz-official](https://github.com/walmes/Tikz)**   
 > **[Data structures ](https://atc1.aut.uah.es/~david/notes/2017/03/datastructures-in-tikz/)**   
-> **[pgfplots-examples](http://pgfplots.sourceforge.net/gallery.html)**   
 > **[diagrams-tikz](https://wiki.physik.uzh.ch/cms/latex:tikz)**   
+### PGF
+> **[pgfplots-examples](http://pgfplots.sourceforge.net/gallery.html)**   
 
 ### editors
 > **[tikzcd-editor](https://github.com/yishn/tikzcd-editor)**   
