@@ -13,7 +13,7 @@
 ## Tools
 > **[pydflatex](https://github.com/olivierverdier/pydflatex)**   
 > **[latexmk](https://www.ctan.org/pkg/latexmk)**   
-
+<br/>
 
 ## Tex practices
 > **[nasa-latex](https://github.com/nasa/nasa-latex-docs)**      
@@ -64,7 +64,7 @@
 > **[pgfplots-doc](http://pgfplots.sourceforge.net/gallery.html)**   
 > **[tikz-ref-doc](docs/c_tikzref.pdf)**   
 
-
+<br/>
 
 ## Misc
 > **[usepyplot](https://github.com/masasin/latexipy)**   
