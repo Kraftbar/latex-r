@@ -1,4 +1,6 @@
 
+# latex resources
+
 ## code in latex
 > **[pythontex](https://github.com/gpoore/pythontex)**     
 
@@ -32,8 +34,7 @@
 <br/>
 
 
-# graphics
-## PGF/TikZ
+## graphics
 ### TikZ 
 > **[TikZ_ex](https://github.com/PetarV-/TikZ)**   
 > **[Tikz Prof. walmes](http://www.leg.ufpr.br/~walmes/tikz/)**   
@@ -62,13 +63,13 @@
 
 
 
-## misc
+## Misc
 > **[usepyplot](https://github.com/masasin/latexipy)**   
 > **[latex-resources](https://github.com/davidstutz/latex-resources)**   
 
 <br/>
 
-## one-liners
+## One-liners
 
 >   ```sh
 >    gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.5 -dNOPAUSE -dQUIET -dBATCH 
