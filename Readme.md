@@ -12,7 +12,12 @@
 
 ## Tools
 > **[pydflatex](https://github.com/olivierverdier/pydflatex)**   
-> **[latexmk](https://www.ctan.org/pkg/latexmk)**   
+> **[latexmk](https://www.ctan.org/pkg/latexmk)**
+> **[MATweave](https://inverseprobability.com/2010/10/13/integrating-matlaboctave-in-latex)**
+> **[knitr/Sweave](https://github.com/haziqj/latex-article-template)**
+
+
+
 <br/>
 
 ## Tex practices
@@ -47,6 +52,8 @@
 ### PGF
 > **[pgfplots-examples](http://pgfplots.sourceforge.net/gallery.html)**   
 
+### pstricks
+> **[pstricks](http://tug.org/PSTricks/main.cgi/)**   
 
 
 
@@ -85,6 +92,9 @@
 >    gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.5 -dNOPAUSE -dQUIET -dBATCH 
 >       -sOutputFile=foo-compressed.pdf foo.pdf
 >   ```
+
+
+
 
 ## Good packages
 > **[circuitikz](https://ctan.org/pkg/circuitikz?lang=en)**   
