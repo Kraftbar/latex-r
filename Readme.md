@@ -70,6 +70,8 @@
 > **[geogebra](https://www.geogebra.org/)**   
 > **[tikzcd-editor](https://github.com/yishn/tikzcd-editor)**   
 > **[cirkuit](https://github.com/KDE/cirkuit)**   
+> **[latexdraw](https://github.com/latexdraw/latexdraw/wiki/Manual)**   
+
 
 
 ### Docs
