@@ -82,6 +82,13 @@
 > **[pgfplots-doc](http://pgfplots.sourceforge.net/gallery.html)**   
 > **[tikz-ref-doc](docs/c_tikzref.pdf)**   
 
+
+### Examples
+> **[LatexDiagrams](https://github.com/FriendlyUser/LatexDiagrams)**   
+
+
+
+
 <br/>
 
 ## Misc
