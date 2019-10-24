@@ -1,5 +1,5 @@
 
-# Latex resources
+# LaTeX resources
 
 <br/>
 
