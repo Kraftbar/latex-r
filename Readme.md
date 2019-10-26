@@ -71,6 +71,7 @@
 > **[tikzcd-editor](https://github.com/yishn/tikzcd-editor)**   
 > **[cirkuit](https://github.com/KDE/cirkuit)**   
 > **[latexdraw](https://github.com/latexdraw/latexdraw/wiki/Manual)**   
+> **[dia](http://dia-installer.de/download/linux.html)**   
 
 
 
