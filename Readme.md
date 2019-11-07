@@ -117,6 +117,8 @@
 > **[blox](http://ctan.uib.no/graphics/pgf/contrib/blox/blox.pdf)**   
 > **[bodegraph](https://ctan.org/pkg/bodegraph?lang=en)**   
 > **[commath](https://ctan.org/pkg/commath?lang=en)**   
+> **[plantuml](https://ctan.org/pkg/plantuml?lang=en)**   
+
 
 <br/>
 
