@@ -58,6 +58,8 @@
 ### pstricks
 > **[pstricks](http://tug.org/PSTricks/main.cgi/)**   
 
+### gnuplot
+> **[gnuplotting](http://www.gnuplotting.org/)**   
 
 
 ### Sketch
