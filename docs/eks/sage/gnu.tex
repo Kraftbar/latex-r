@@ -14,16 +14,16 @@
 % If you want to see the examples in the section "Plotting
 % (combinatorial) graphs with TikZ" remove the \begin{comment}
 % and \end{comment} in that section and uncomment the following line.
-\usepackage{tkz-berge}
+%\usepackage{tkz-berge}
 
 
 \usepackage{sagetex}
-\usepackage{tikz,tkz-graph,tkz-berge}
+%
 % If you want SageTeX to use Imagemagick's `convert' utility to make eps
 % files from png files when generating a dvi file, add the "imagemagick"
 % option above:
 %
-    \usepackage[imagemagick]{sagetex}
+%    \usepackage[imagemagick]{sagetex}
 
 \setlength{\sagetexindent}{10ex}
 
@@ -198,7 +198,7 @@ disabled by default.
 If you have TikZ and \texttt{tkz-berge} and friends, remove the
 \texttt{comment} environments below.
 
-
+\begin{comment}
 
 First define our graph:
 
@@ -247,7 +247,7 @@ G4plot = G4.plot(layout='circular')
 
 \sageplot[scale=.5]{G4plot, axes=False}
 
-
+\end{comment}
 
 \subsection{3D plotting}
 
@@ -461,6 +461,7 @@ everyone, the code here is commented out. You can almost certainly
 uncomment and run them. Make sure you do \verb|\usepackage{tikz}| in the
 preamble.)
 
+\begin{comment}
 
 The wonderful graphics package TikZ has the ability to plot functions by
 reading in a sequence of points from an external file---see chapter 18,
@@ -538,7 +539,7 @@ the new TikZ Data Visualization library is available---you will be able
 to feed TikZ a bunch of data points, and it automatically make a very
 nice plot for you, including axes, labels, and so on.
 
-
+\end{comment}
 
 \section{The \texttt{sagecommandline} environment}
 

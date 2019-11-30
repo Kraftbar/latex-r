@@ -13,7 +13,7 @@
 $pdf_mode = 1;
 
 # Use bibtex if a .bib file exists
-$bibtex_use = 1;
+####$bibtex_use = 1;
 
 # Define command to compile with pdfsync support and nonstopmode
 $pdflatex = 'pdflatex -synctex=1 --interaction=nonstopmode -file-line-error ';

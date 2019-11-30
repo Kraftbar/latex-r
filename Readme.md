@@ -57,6 +57,10 @@
 
 ### pstricks
 > **[pstricks](http://tug.org/PSTricks/main.cgi/)**   
+> **[sketch4latex](http://sketch4latex.sourceforge.net/)**   
+
+### Gnuplot
+> **[gnuplotting](http://www.gnuplotting.org/)**   
 
 ### gnuplot
 > **[gnuplotting](http://www.gnuplotting.org/)**   
@@ -98,6 +102,8 @@
 > **[usepyplot](https://github.com/masasin/latexipy)**   
 > **[latex-resources](https://github.com/davidstutz/latex-resources)**   
 > **[SageTEX](https://github.com/davidstutz/latex-resources)**   
+> **[MathPic_maybe](http://www.inftyproject.org/en/software.html#InftyReader)** 
+
 
 <br/>
 
@@ -114,6 +120,8 @@
 ## Good packages
 > **[circuitikz](https://ctan.org/pkg/circuitikz?lang=en)**   
 > **[circuit-macros](https://ctan.org/pkg/circuit-macros?lang=en)**   
+> **[tkz-graph](http://ctan.uib.no/macros/latex/contrib/tkz/tkz-graph/doc/tkz-graph-screen.pdf)**   
+
 > **[blox](http://ctan.uib.no/graphics/pgf/contrib/blox/blox.pdf)**   
 > **[bodegraph](https://ctan.org/pkg/bodegraph?lang=en)**   
 > **[commath](https://ctan.org/pkg/commath?lang=en)**   
