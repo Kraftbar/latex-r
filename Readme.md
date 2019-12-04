@@ -126,6 +126,8 @@
 > **[bodegraph](https://ctan.org/pkg/bodegraph?lang=en)**   
 > **[commath](https://ctan.org/pkg/commath?lang=en)**   
 > **[plantuml](https://ctan.org/pkg/plantuml?lang=en)**   
+> **[automata](https://www3.nd.edu/~kogge/courses/cse30151-fa17/Public/other/tikz_tutorial.pdf)**   
+
 
 
 <br/>
