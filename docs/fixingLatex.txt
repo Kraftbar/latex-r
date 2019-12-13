@@ -1,22 +1,26 @@
 
-## Fromatting
+%% Fromatting
 \documentclass[a4paper]{article}	  
 \usepackage[margin=3cm]{geometry} 	   % Choose your margin here. 
 \usepackage{parskip}                   % automatically breaks line 
 \setlength{\parindent}{0cm}				% Start paragraph without indent. Optional
 
 
-## Figures
+%% Figures
 \newcommand{\figref}[1]{\figurename~\ref{#1}}
 
-##  pgf 
+%%  pgf 
 \pgfplotsset{width=16cm,height=6cm, compat=1.8}
- casuses the plots to clip 
+% this casuses the plots to clip 
+%Soloution:
+%\begin{tikzpicture}
+%\begin{axis}[clip= false]
+% plots
+%\end{axis}
+%\end{tikzpicture}
 
-Soloution:
-\begin{tikzpicture}
-\begin{axis}[clip= false]
-%% plots
-\end{axis}
-\end{tikzpicture}
+
+
+
+
 
