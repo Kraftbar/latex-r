@@ -1,6 +1,6 @@
 
 %% Fromatting
-\documentclass[a4paper]{article}	  
+\documentclass[a4paper,12pt]{article}	  
 \usepackage[margin=3cm]{geometry} 	   % Choose your margin here. 
 \usepackage{parskip}                   % automatically breaks line 
 \setlength{\parindent}{0cm}				% Start paragraph without indent. Optional
