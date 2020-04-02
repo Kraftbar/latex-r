@@ -105,6 +105,9 @@
 > **[MathPic_maybe](http://www.inftyproject.org/en/software.html#InftyReader)** 
 
 
+> **[mermaid(uml)](https://github.com/mermaid-js/mermaid)** 
+
+
 <br/>
 
 ## One-liners
