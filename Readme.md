@@ -105,8 +105,8 @@
 > **[MathPic_maybe](http://www.inftyproject.org/en/software.html#InftyReader)** 
 
 
-> **[mermaid(uml)](https://github.com/mermaid-js/mermaid)** 
-> **[Graphviz(uml)](https://www.gnu.org/software/bison/manual/html_node/Graphviz.html)** 
+> **[mermaid(uml)](https://github.com/mermaid-js/mermaid)**          
+> **[Graphviz(uml)](https://www.gnu.org/software/bison/manual/html_node/Graphviz.html)**       
 
 
 <br/>
