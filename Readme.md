@@ -107,6 +107,7 @@
 
 > **[mermaid(uml)](https://github.com/mermaid-js/mermaid)**          
 > **[Graphviz(uml)](https://www.gnu.org/software/bison/manual/html_node/Graphviz.html)**       
+> **[pgf-umlsd(uml)](https://www.ctan.org/pkg/pgf-umlsd)**       
 
 
 <br/>
