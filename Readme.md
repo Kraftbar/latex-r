@@ -17,6 +17,12 @@
 > **[knitr/Sweave](https://github.com/haziqj/latex-article-template)**       
  
 
+## editors
+> **[rtextdoc](https://jwork.org/rtextdoc/)**       
+
+
+
+
 
 <br/>
 
