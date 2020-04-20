@@ -152,6 +152,7 @@
 ## Generate some figs
 > **[keyboard-layout-editor](http://www.keyboard-layout-editor.com/)**   
 > **[draw.io](draw.io)**   
+> **[tikzmagic.py](https://github.com/mkrphys/ipython-tikzmagic)**   
 
 <br/>
 
