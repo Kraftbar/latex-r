@@ -1,27 +1,42 @@
-# LaTeXmk configuration file
+#!/usr/bin/env perl
 
-# Usage example
-# latexmk file.tex
+# LaTeX
+$latex = 'latex -synctex=1 -halt-on-error -file-line-error %O %S';
+$max_repeat = 5;
 
-# Main command line options
-# -pdf : generate pdf using pdflatex
-# -pv  : run file previewer
-# -pvc : run file previewer and continually recompile on change
-# -C   : clean up by removing all regeneratable files
+# BibTeX
+$bibtex = 'pbibtex %O %S';
+$biber = 'biber --bblencoding=utf8 -u -U --output_safechars %O %S';
 
-# Generate pdf using pdflatex (-pdf)
-$pdf_mode = 1;
+# index
+$makeindex = 'mendex %O -o %D %S';
 
-# Use bibtex if a .bib file exists
-####$bibtex_use = 1;
+# DVI / PDF
+$dvipdf = 'dvipdfmx %O -o %D %S';
+$pdf_mode = 3;
 
-# Define command to compile with pdfsync support and nonstopmode
-$pdflatex = 'pdflatex -synctex=1 --interaction=nonstopmode -file-line-error ';
-
-# Use default pdf viewer (Skim)
-$pdf_previewer = 'zathura';
-
+# output directory
 $out_dir = 'build_latex';
 
-# Also remove pdfsync files on clean
+# Remove pdfsync files on clean
 $clean_ext = 'pdfsync synctex.gz';
+
+
+
+# preview
+$pvc_view_file_via_temporary = 0;
+if ($^O eq 'linux') {
+    $dvi_previewer = "xdg-open %S";
+    $pdf_previewer = "xdg-open %S";
+} elsif ($^O eq 'darwin') {
+    $dvi_previewer = "open %S";
+    $pdf_previewer = "open %S";
+} else {
+    $dvi_previewer = "start %S";
+    $pdf_previewer = "start %S";
+}
+
+# clean up
+$clean_full_ext = "%R.synctex.gz"
+
+
