@@ -151,6 +151,7 @@
 
 ## Generate some figs
 > **[keyboard-layout-editor](http://www.keyboard-layout-editor.com/)**   
+> **[mscgen](https://www.mcternan.me.uk/mscgen/)**   
 > **[draw.io](draw.io)**   
 > **[tikzmagic.py](https://github.com/mkrphys/ipython-tikzmagic)**   
 
