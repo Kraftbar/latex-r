@@ -11,7 +11,7 @@
 
 %%  pgf 
 \pgfplotsset{width=16cm,height=6cm, compat=1.8}
-% this casuses the plots to clip 
+% this causes the plots to clip 
 %Soloution:
 %\begin{tikzpicture}
 %\begin{axis}[clip= false]
